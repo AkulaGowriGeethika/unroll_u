@@ -1,9 +1,0 @@
-{
-  "name": "Uroll U",
-  "short_name": "Uroll U",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f8f6ef",
-  "theme_color": "#344b3c",
-  "description": "Unroll anywhere. Practice anywhere."
-}
