@@ -1,57 +1,36 @@
-UROLL U — WEBSITE STARTER
-==========================
+POSE PHOTOS - drop your real photos here
 
-WHAT'S INCLUDED
-- index.html: website layout and content
-- style.css: responsive styling and theme
-- app.js: search, category filters, level filters and pose detail popups showing each pose's own illustration
-- poses.json: yoga pose library (30 pose entries, each linked to its matching local illustration)
-- assets/favicon.svg: simple brand icon
-- assets/poses/: 30 pose-specific illustrations (one SVG per pose, works offline). Each shows the correct body position for that pose, so no two poses share a picture.
-- manifest.webmanifest: basic installable web-app metadata
+Save each photo as a .jpg with EXACTLY the file name below (landscape, about 1200x800 works best).
+If a photo is missing, the site automatically shows the drawn illustration instead, so you can add them a few at a time.
+Use photos you own (best: shoot on your Uroll U mat) or free-licence ones from Unsplash/Pexels, and check the licence.
 
-REQUIREMENTS
-- A modern browser (Chrome, Edge, Firefox or Safari).
-- For editing: Visual Studio Code is recommended, but optional.
-- No npm, Node.js, Java, database or paid software is required for this version.
-- Internet connection is needed for Google Fonts, the two hero photographs on the homepage and YouTube video searches. The 30 pose illustrations are bundled locally.
-
-HOW TO RUN ON WINDOWS
-1. Extract the ZIP folder.
-2. Open the extracted folder in Visual Studio Code (optional).
-3. Open Terminal > New Terminal in VS Code.
-4. Run this command:
-      py -m http.server 8000
-   If 'py' is not available, try:
-      python -m http.server 8000
-5. Open this address in your browser:
-      http://localhost:8000
-6. To stop the server, return to the terminal and press Ctrl + C.
-
-IMPORTANT
-Do not double-click index.html to run the website. The pose library is loaded from poses.json,
-so run it through the local server above.
-
-HOW TO PUT IT ONLINE AND MAKE YOUR QR CODE
-1. Deploy the extracted folder to a static hosting service such as Netlify or Vercel.
-2. Test the live URL on a phone using mobile data.
-3. Generate a QR code that points to the permanent live URL.
-4. Print the QR code with a clear white border/quiet zone and test it on the actual mat material.
-
-VIDEO NOTE
-The Watch demonstration button opens a YouTube search for the relevant pose. This avoids embedding
-a potentially unavailable or unlicensed video. Choose and embed specific instructor videos only
-after checking their quality, suitability and reuse/embedding settings.
-
-CONTENT & SAFETY NOTE
-This is an educational yoga guide, not medical advice. Benefits vary by person. The pose instructions
-and precautions are general starting points; they do not replace in-person guidance. Practise within
-a comfortable range and stop if there is pain, dizziness or unusual discomfort. People who are pregnant,
-injured or managing a medical condition should consult a qualified professional about modifications.
-
-CUSTOMISATION
-- Edit poses.json to add, remove or update poses.
-- Add new pose objects using the same field structure as the existing entries.
-- Edit colours and layout in style.css.
-- Update the brand name, copy and sections in index.html.
-\n\nBRAND DETAILS\n-------------\nFounder & CEO: Dakamari Jagadeep. This is displayed in the Founder section of the website.\n
+mountain.jpg  ->  Mountain Pose (Tadasana)   search: "Mountain Pose yoga pose"
+tree.jpg  ->  Tree Pose (Vrikshasana)   search: "Tree Pose yoga pose"
+warrior1.jpg  ->  Warrior I (Virabhadrasana I)   search: "Warrior I yoga pose"
+warrior2.jpg  ->  Warrior II (Virabhadrasana II)   search: "Warrior II yoga pose"
+triangle.jpg  ->  Triangle Pose (Trikonasana)   search: "Triangle Pose yoga pose"
+downward-dog.jpg  ->  Downward-Facing Dog (Adho Mukha Svanasana)   search: "Downward-Facing Dog yoga pose"
+child.jpg  ->  Child's Pose (Balasana)   search: "Child's Pose yoga pose"
+cobra.jpg  ->  Cobra Pose (Bhujangasana)   search: "Cobra Pose yoga pose"
+bridge.jpg  ->  Bridge Pose (Setu Bandha Sarvangasana)   search: "Bridge Pose yoga pose"
+cat-cow.jpg  ->  Cat–Cow (Marjaryasana–Bitilasana)   search: "Cat–Cow yoga pose"
+butterfly.jpg  ->  Butterfly Pose (Baddha Konasana)   search: "Butterfly Pose yoga pose"
+seated-forward-fold.jpg  ->  Seated Forward Bend (Paschimottanasana)   search: "Seated Forward Bend yoga pose"
+corpse.jpg  ->  Corpse Pose (Savasana)   search: "Corpse Pose yoga pose"
+happy-baby.jpg  ->  Happy Baby (Ananda Balasana)   search: "Happy Baby yoga pose"
+low-lunge.jpg  ->  Low Lunge (Anjaneyasana)   search: "Low Lunge yoga pose"
+pigeon.jpg  ->  Pigeon Pose (Eka Pada Rajakapotasana prep)   search: "Pigeon Pose yoga pose"
+plank.jpg  ->  Plank Pose (Phalakasana)   search: "Plank Pose yoga pose"
+chair.jpg  ->  Chair Pose (Utkatasana)   search: "Chair Pose yoga pose"
+boat.jpg  ->  Boat Pose (Navasana)   search: "Boat Pose yoga pose"
+legs-up-wall.jpg  ->  Legs Up the Wall (Viparita Karani variation)   search: "Legs Up the Wall yoga pose"
+eagle.jpg  ->  Eagle Pose (Garudasana)   search: "Eagle Pose yoga pose"
+dancer.jpg  ->  Dancer Pose (Natarajasana)   search: "Dancer Pose yoga pose"
+camel.jpg  ->  Camel Pose (Ustrasana)   search: "Camel Pose yoga pose"
+bow.jpg  ->  Bow Pose (Dhanurasana)   search: "Bow Pose yoga pose"
+lotus.jpg  ->  Easy Seated Pose (Sukhasana)   search: "Easy Seated Pose yoga pose"
+wide-legged-forward-fold.jpg  ->  Wide-Legged Forward Fold (Prasarita Padottanasana)   search: "Wide-Legged Forward Fold yoga pose"
+sphinx.jpg  ->  Sphinx Pose (Salamba Bhujangasana)   search: "Sphinx Pose yoga pose"
+staff.jpg  ->  Staff Pose (Dandasana)   search: "Staff Pose yoga pose"
+side-angle.jpg  ->  Extended Side Angle (Utthita Parsvakonasana)   search: "Extended Side Angle yoga pose"
+thread-needle.jpg  ->  Thread the Needle (Parsva Balasana variation)   search: "Thread the Needle yoga pose"

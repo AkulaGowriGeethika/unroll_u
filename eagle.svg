@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Eagle Pose illustration">
+<rect width="480" height="300" fill="#e8ebdd"/>
+<circle cx="396" cy="84" r="58" fill="#f1efe4"/>
+<circle cx="84" cy="238" r="40" fill="#dfe4d1"/>
+<ellipse cx="240" cy="263.0" rx="150" ry="4" fill="#26352c" opacity=".07"/>
+<rect x="60" y="252.0" width="360" height="9" rx="4.5" fill="#c49a72"/>
+<polygon points="258.4,137.8 247.7,194.2 234.9,192.4 240.1,135.3" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="249.2" cy="136.5" r="11.6" fill="#e8ebdd"/>
+<circle cx="241.3" cy="193.3" r="8.9" fill="#e8ebdd"/>
+<polygon points="247.7,192.4 254.2,245.7 243.2,247.2 234.9,194.2" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="241.3" cy="193.3" r="8.9" fill="#e8ebdd"/>
+<circle cx="248.7" cy="246.5" r="7.9" fill="#e8ebdd"/>
+<polygon points="248.7,240.9 261.7,242.3 261.7,250.6 248.7,252.0" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="248.7" cy="246.5" r="7.9" fill="#e8ebdd"/>
+<circle cx="261.7" cy="246.5" r="6.6" fill="#e8ebdd"/>
+<polygon points="258.4,137.8 247.7,194.2 234.9,192.4 240.1,135.3" fill="#2f4636"/>
+<circle cx="249.2" cy="136.5" r="9.2" fill="#2f4636"/>
+<circle cx="241.3" cy="193.3" r="6.5" fill="#2f4636"/>
+<polygon points="247.7,192.4 254.2,245.7 243.2,247.2 234.9,194.2" fill="#2f4636"/>
+<circle cx="241.3" cy="193.3" r="6.5" fill="#2f4636"/>
+<circle cx="248.7" cy="246.5" r="5.5" fill="#2f4636"/>
+<polygon points="248.7,240.9 261.7,242.3 261.7,250.6 248.7,252.0" fill="#2f4636"/>
+<circle cx="248.7" cy="246.5" r="5.5" fill="#2f4636"/>
+<circle cx="261.7" cy="246.5" r="4.2" fill="#2f4636"/>
+<polygon points="238.8,131.9 265.0,183.0 253.8,189.4 222.7,141.2" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="230.8" cy="136.5" r="11.6" fill="#e8ebdd"/>
+<circle cx="259.4" cy="186.2" r="8.9" fill="#e8ebdd"/>
+<polygon points="265.6,188.2 248.1,238.9 237.6,235.5 253.3,184.2" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="259.4" cy="186.2" r="8.9" fill="#e8ebdd"/>
+<circle cx="242.8" cy="237.2" r="7.9" fill="#e8ebdd"/>
+<polygon points="238.8,131.9 265.0,183.0 253.8,189.4 222.7,141.2" fill="#2f4636"/>
+<circle cx="230.8" cy="136.5" r="9.2" fill="#2f4636"/>
+<circle cx="259.4" cy="186.2" r="6.5" fill="#2f4636"/>
+<polygon points="265.6,188.2 248.1,238.9 237.6,235.5 253.3,184.2" fill="#2f4636"/>
+<circle cx="259.4" cy="186.2" r="6.5" fill="#2f4636"/>
+<circle cx="242.8" cy="237.2" r="5.5" fill="#2f4636"/>
+<polygon points="227.1,136.5 226.1,69.9 253.9,69.9 252.9,136.5" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="240.0" cy="136.5" r="15.3" fill="#e8ebdd"/>
+<circle cx="240.0" cy="69.9" r="16.3" fill="#e8ebdd"/>
+<polygon points="257.6,78.3 222.4,78.3 222.4,61.6 257.6,61.6" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="257.6" cy="69.9" r="10.7" fill="#e8ebdd"/>
+<circle cx="222.4" cy="69.9" r="10.7" fill="#e8ebdd"/>
+<polygon points="249.2,146.7 230.8,146.7 230.8,126.4 249.2,126.4" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="249.2" cy="136.5" r="12.6" fill="#e8ebdd"/>
+<circle cx="230.8" cy="136.5" r="12.6" fill="#e8ebdd"/>
+<polygon points="227.1,136.5 226.1,69.9 253.9,69.9 252.9,136.5" fill="#2f4636"/>
+<circle cx="240.0" cy="136.5" r="12.9" fill="#2f4636"/>
+<circle cx="240.0" cy="69.9" r="13.9" fill="#2f4636"/>
+<polygon points="257.6,78.3 222.4,78.3 222.4,61.6 257.6,61.6" fill="#2f4636"/>
+<circle cx="257.6" cy="69.9" r="8.3" fill="#2f4636"/>
+<circle cx="222.4" cy="69.9" r="8.3" fill="#2f4636"/>
+<polygon points="249.2,146.7 230.8,146.7 230.8,126.4 249.2,126.4" fill="#2f4636"/>
+<circle cx="249.2" cy="136.5" r="10.2" fill="#2f4636"/>
+<circle cx="230.8" cy="136.5" r="10.2" fill="#2f4636"/>
+<circle cx="240.0" cy="50.5" r="14.4" fill="#e8ebdd"/>
+<circle cx="240.0" cy="50.5" r="12.0" fill="#2f4636"/>
+<polygon points="223.7,62.7 265.3,71.9 263.4,82.8 221.1,77.2" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="222.4" cy="69.9" r="9.8" fill="#e8ebdd"/>
+<circle cx="264.3" cy="77.3" r="7.9" fill="#e8ebdd"/>
+<polygon points="259.5,80.1 239.6,44.6 248.4,39.5 269.1,74.6" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="264.3" cy="77.3" r="7.9" fill="#e8ebdd"/>
+<circle cx="244.0" cy="42.1" r="7.5" fill="#e8ebdd"/>
+<polygon points="223.7,62.7 265.3,71.9 263.4,82.8 221.1,77.2" fill="#6f8a76"/>
+<circle cx="222.4" cy="69.9" r="7.4" fill="#6f8a76"/>
+<circle cx="264.3" cy="77.3" r="5.5" fill="#6f8a76"/>
+<polygon points="259.5,80.1 239.6,44.6 248.4,39.5 269.1,74.6" fill="#6f8a76"/>
+<circle cx="264.3" cy="77.3" r="5.5" fill="#6f8a76"/>
+<circle cx="244.0" cy="42.1" r="5.1" fill="#6f8a76"/>
+<polygon points="258.9,77.2 216.6,82.8 214.7,71.9 256.3,62.7" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="257.6" cy="69.9" r="9.8" fill="#e8ebdd"/>
+<circle cx="215.7" cy="77.3" r="7.9" fill="#e8ebdd"/>
+<polygon points="210.9,74.6 231.6,39.5 240.4,44.6 220.5,80.1" fill="#e8ebdd" stroke="#e8ebdd" stroke-width="4.8" stroke-linejoin="round"/>
+<circle cx="215.7" cy="77.3" r="7.9" fill="#e8ebdd"/>
+<circle cx="236.0" cy="42.1" r="7.5" fill="#e8ebdd"/>
+<polygon points="258.9,77.2 216.6,82.8 214.7,71.9 256.3,62.7" fill="#2f4636"/>
+<circle cx="257.6" cy="69.9" r="7.4" fill="#2f4636"/>
+<circle cx="215.7" cy="77.3" r="5.5" fill="#2f4636"/>
+<polygon points="210.9,74.6 231.6,39.5 240.4,44.6 220.5,80.1" fill="#2f4636"/>
+<circle cx="215.7" cy="77.3" r="5.5" fill="#2f4636"/>
+<circle cx="236.0" cy="42.1" r="5.1" fill="#2f4636"/>
+</svg>
